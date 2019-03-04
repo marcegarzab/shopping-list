@@ -1,0 +1,26 @@
+.crossItem{
+	text-decoration: line-through;
+}
+
+.itemBox{
+	list-style: none;
+	border: solid grey 1px;
+	width: 50%;
+	margin-top: 5px;
+}
+
+p{
+	font-family: arial;
+	font-style: italic;
+	color: grey;
+	margin: 15px;
+}
+
+.checkButton{
+	margin-left: 15px;
+}
+
+
+
+
+
